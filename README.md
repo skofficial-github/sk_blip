@@ -26,8 +26,8 @@ The blip will automatically expire after 30 minutes.
 
 ## 💬 Commands
 ```bash
-/blip [Business Name]	Create a blip with the specified label
-/delblip	              Remove your active blip from the map
+/blip [Business Name]      Create a blip with the specified label
+/delblip                   Remove your active blip from the map
 ```
 
 ## 🎨 Configuration
